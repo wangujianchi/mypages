@@ -1,0 +1,2 @@
+# mypages
+first blog
